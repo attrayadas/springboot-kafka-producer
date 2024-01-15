@@ -1,4 +1,4 @@
-# Open Source Kafka Startup Guide
+# Open Source Kafka Startup Guide for Windows
 
 This guide will walk you through the steps to set up and run Apache Kafka, an open-source distributed event streaming platform, on your local machine. Follow the steps below to get started with Kafka.
 
