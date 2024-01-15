@@ -12,7 +12,7 @@ Visit the Apache [Kafka download page](https://kafka.apache.org/downloads) to do
 
 #### Start the ZooKeeper service
 
-Open a terminal and navigate to the Kafka directory.
+Open a terminal and navigate to the Kafka directory and start the ZooKeeper service:
 ```bash
 .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
 ```
